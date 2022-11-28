@@ -3,8 +3,9 @@
 ## Introduction
 This Indonesian dataset is constructed for Indonesian GEC task. It contains 13,709 sentences for 10 POS tags. As few datasets are provided for Indonesian GEC task, we hope our dataset can help the researchers who focus on this research field. For more details of our dataset, please see our paper “A Framework for Indonesian Grammar Error Correction”.
 
+
 ## v1.1 version
-We optimized the original corpus, deleting two pieces of "Preposition" data and three pieces of "Indefinite Pronoun". After retesting, the results of keeping three decimal places are consistent with the data of the original paper.
+We optimized the original corpus, deleting two pieces of data in the "preposition" category and three pieces of data in the "indefinite pronoun" category. After retesting, the results of retaining three decimal places are consistent with the data in the original paper.
 
 
 ## Citation
