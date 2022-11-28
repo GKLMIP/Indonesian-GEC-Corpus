@@ -5,7 +5,7 @@ This Indonesian dataset is constructed for Indonesian GEC task. It contains 13,7
 
 
 ## v1.1 version
-We optimized the original corpus, deleting two pieces of data in the "preposition" category and three pieces of data in the "indefinite pronoun" category. After retesting, the results of retaining three decimal places are consistent with the data in the original paper.
+We optimized the original corpus, deleting two pieces of data in the "preposition" category and three pieces of data in the "indefinite pronoun" category. After retesting, the results of retaining three decimal places are consistent with the results in the original paper.
 
 
 ## Citation
